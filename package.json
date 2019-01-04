@@ -1,0 +1,19 @@
+{
+  "name": "clock-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "buildw": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.egzotech.com/rafal.gastecki/Clock_Javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.2.2"
+  }
+}
